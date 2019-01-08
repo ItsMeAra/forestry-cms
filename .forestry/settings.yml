@@ -1,6 +1,6 @@
 ---
 new_page_extension: md
-auto_deploy: false
+auto_deploy: true
 admin_path: https://itsmeara.github.io/forestry-cms/
 webhook_url: 
 sections:
